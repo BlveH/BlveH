@@ -1,3 +1,4 @@
+<div style="text-align:center;">
 
 <a href="https://app.daily.dev/BLUE"><img src="https://api.daily.dev/devcards/4503feb0dd2546d48c554b6e841e80e8.png?r=wm8" width="400" alt="BLUE's Dev Card"/></a>
 # 📊GitHub Stats :
@@ -16,3 +17,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BLVEhv&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
